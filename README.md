@@ -9,20 +9,20 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 # Download & Install
 
 
-# $ pkg update && upgrade -y
+ $ pkg update && upgrade -y
 
-# $ pkg install pyhthon
+ $ pkg install pyhthon
 
-# $ pkg install python2
+ $ pkg install python2
 
-# $ pkg install git
+ $ pkg install git
 
-# $ git clone https://github.com/Md-Tisun/DAT-Attack
+ $ git clone https://github.com/Md-Tisun/DAT-Attack
 
-# $ ls
+ $ ls
 
-# $ cd DAT-Attack
+ $ cd DAT-Attack
 
-# $ ls
+ $ ls
 
-# $ python2 D4T-Attack.py
+ $ python2 D4T-Attack.py
